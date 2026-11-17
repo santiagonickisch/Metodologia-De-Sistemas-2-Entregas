@@ -22,7 +22,7 @@ Repositorio de entregas académicas, planes de trabajo y actividades prácticas 
 ### 1. Fundamentos y Patrones de Diseño
 | Entrega | Descripción | Formato | Archivo |
 | :--- | :--- | :---: | :--- |
-| **Trabajo Práctico N.° 1** | Actividad práctica inicial de la asignatura | `DOCX` | [TP1 - MDS II - Vicentin Erick.docx](./TP1%20-%20MDS%20II%20-%20Vicentin%20Erick.docx) |
+| **Trabajo Práctico N.° 1** | Actividad práctica inicial de la asignatura | `DOCX` | [TP1 - MDS II - Nickisch Vicentin.docx](./TP1%20-%20MDS%20II%20-%20Vicentin%20Erick.docx) |
 | **Patrones de Diseño: Prototype** | Investigación teórica, estructura UML, pros/contras y caso práctico en pseudocódigo del patrón creacional *Prototype* | `PDF` | [[MDS 2] TP Patrones de Diseño - Prototype.pdf](./%5BMDS%202%5D%20TP%20Patrones%20de%20Disen%CC%83o%20-%20Prototype.pdf) |
 | **Infografía: Patrón Prototype** | Resumen visual e infografía del patrón *Prototype* | `PNG` | [Infografia prototype.png](./Infografia%20prototype.png) |
 
